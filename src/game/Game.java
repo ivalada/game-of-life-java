@@ -61,5 +61,4 @@ public class Game {
 		}
         System.out.print(this.population);
     }
-
 }
